@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="<?php echo $path; ?>css/set1.css" />
 <link rel="stylesheet" href="<?php echo $path; ?>css/normalize.css" />
-<script src="https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.js"></script>
-<script src="https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.js"></script>
+<script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
 <section id="category-home">
     <div class="container">
         
